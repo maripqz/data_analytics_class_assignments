@@ -4,3 +4,7 @@ SQL, Tableau and excel assignments for Galvanize DA class
  - SQL
  - excel
  - Tableau
+
+
+
+  Mari
